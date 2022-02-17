@@ -7,3 +7,6 @@ Indetifique os apectos do seu aplicativo que variam e separe-os dos que permanec
 
 ### 02
 Programa para uma interface, e não para implementações
+
+### 03
+Dar prioridade á composição
