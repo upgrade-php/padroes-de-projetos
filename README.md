@@ -14,3 +14,9 @@ Dar prioridade á composição.
 ### 04
 Busque designs levemente ligados entre objetos que interagem.
 
+### 05
+As classem devem esta abertas para extensão e fechadas para modificações
+
+### 06
+Dependa de abstrações, não dependa de classes concretas
+
