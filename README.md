@@ -20,3 +20,6 @@ As classem devem esta abertas para extensão e fechadas para modificações
 ### 06
 Dependa de abstrações, não dependa de classes concretas
 
+### 07
+Principio do minimo conhecimento, só fale com seus amigos mais próximo
+
