@@ -23,3 +23,9 @@ Dependa de abstrações, não dependa de classes concretas
 ### 07
 Principio do minimo conhecimento, só fale com seus amigos mais próximo
 
+### 08
+Não me ligue, eu te ligo
+
+### 09
+Uma classe deve ter apenas uma unica razão para mudar
+
